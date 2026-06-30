@@ -197,5 +197,6 @@ CI/CD Pipelines
 Kubernetes Deployment
 Fine-tuned Custom BERT Models
 
-Author: Priyal Parmar 
-https://www.linkedin.com/in/parmar-priyal-parfulbhai-72172a227/
+Author
+
+Priyal Parmar 
